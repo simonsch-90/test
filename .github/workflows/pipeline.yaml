@@ -16,4 +16,4 @@ jobs:
         with: 
           audience: sts.amazonaws.com
           aws-region: eu-central-1
-          role-to-assue: arn:aws:iam:651001243691:role/MainStack-GithubOIDCIntegrationIdentityRole1E53766B-rJKAfnRFI1Kr
+          role-to-assume: arn:aws:iam:651001243691:role/MainStack-GithubOIDCIntegrationIdentityRole1E53766B-rJKAfnRFI1Kr
